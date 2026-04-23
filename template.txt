@@ -1,0 +1,10 @@
+Dear {Name},
+
+We are pleased to offer you the role of {Role} at our organization.
+
+Your offered salary is {Salary}, and your expected start date is {Joining}.
+
+Please review this offer and confirm your acceptance.
+
+Sincerely,
+HR Team
